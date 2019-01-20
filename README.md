@@ -1,3 +1,3 @@
-SpringMVC
+JDBC 
 
 Practice 
