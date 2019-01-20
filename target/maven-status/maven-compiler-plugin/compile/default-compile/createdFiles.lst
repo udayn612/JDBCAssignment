@@ -1,0 +1,5 @@
+com/stackroute/configuration/LoginInitializer.class
+com/stackroute/configuration/CrudOperation.class
+com/stackroute/configuration/Person.class
+com/stackroute/configuration/LoginConfiguration.class
+com/stackroute/controller/LoginController.class
